@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML , CSS , c++**
+- 💬 Ask me about **HTML , CSS , JavaScript, C++**
 
 - 📫 How to reach me **ratohikumar@gmail.com**
 
